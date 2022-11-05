@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijithgkrishna
 - 👀 I’m interested in Web Development, App Development, ML
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on react projects
 - 📫 [Connect with me](https://www.linkedin.com/in/abhijith-g-864a9816a/)
 
