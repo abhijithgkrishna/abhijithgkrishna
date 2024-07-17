@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijithgkrishna
+- 👋 Hi, I’m Abhijith G
 - 👀 I’m interested in Web Development, App Development, ML
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on flutter projects
